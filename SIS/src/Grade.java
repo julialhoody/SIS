@@ -1,10 +1,11 @@
-
+import java.util.Scanner; 
 public class Grade
 	{
 
 		public static void main(String[] args)
 			{
-				// TODO Auto-generated method stub
+				//change grade 
+				System.out.println("What is the first name of the student you want to change?");
 
 			}
 
