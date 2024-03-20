@@ -18,8 +18,8 @@ public class Grade
 				
 				public static changeGrade( int number, int classPeriod, String newGrade)
 				{
-					for(int i = 0; i < StudentList.studentList.get())
-					
+					//for(int i = 0; i < StudentList.studentList.get())
+					//
 					if(StudentList.getFirstClass.equals(firstClass))
 						{
 							studentList.setFirstGrade(newGrade);
